@@ -1,0 +1,12 @@
+Ignore temporary files created by the script
+
+*.tmp
+
+Ignore local configuration or environment files
+
+.env
+
+Ignore OS-specific files created by macOS and Windows
+
+.DS_Store
+Thumbs.db
